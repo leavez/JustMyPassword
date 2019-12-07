@@ -1,20 +1,20 @@
 
 # JustMyPassword
 
-JustMyPassword is a iOS jailbreak tweak that remove the password length requirement
-when adding a card in Wallet App on iOS 13.
+JustMyPassword is a iOS jailbreak tweak that removes the password length requirement
+when adding a new card in Wallet App on iOS 13.
 
 If you use 4-digit password, iOS 13 won't let you add a new card in the Wallet App,
 It says "6-Digit password required" for security reasons. But I just want use a short password, 
-bacause the FaceID is not always valid, especially when you lying in the bed. JustMyPassword
+bacause the Face ID is not always valid, especially when you lying in the bed. JustMyPassword
 will allow you to skip that step.
 
-JustMyPassword has nothing to do with how you change the password. If you are using 6-digit 
+! JustMyPassword has nothing to do with how you change the password. If you are using 6-digit 
 password and having a card in the wallet, there will be no option to set to 4-digit password
 in the "Settings/ Face ID & Passcode/ Change Passcode". You should remove the cards the wallet,
-and then 4-digit password option will be available. 
+then 4-digit password option will be available. 
 
-When cards added, you could just remove JustMyPassword, because it only hook the adding process.
+When cards added, you could just remove JustMyPassword. It only hooked the adding process.
 
 Works on iOS 13.
 
