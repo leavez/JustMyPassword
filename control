@@ -1,0 +1,10 @@
+Package: com.gao.justmypassword
+Name: JustMyPassword
+Depends: mobilesubstrate, firmware (>= 13.0)
+Priority: optional
+Version: 0.1
+Architecture: iphoneos-arm
+Description: remove the password length requirement when adding a new card in wallet app
+Maintainer: Gao <Gaojiji@gmail.com>
+Author: Gao <Gaojiji@gmail.com>
+Section: Tweaks
