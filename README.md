@@ -1,3 +1,4 @@
+> NOTE: Not work anymore. No more maintenance
 
 # JustMyPassword
 
@@ -25,7 +26,7 @@ Works on iOS 13.
 
 ### Published Package
 
-Publish on Packix Repo (https://repo.packix.com). Install with Cydia or other similar package manager
+~~Publish on Packix Repo (https://repo.packix.com). Install with Cydia or other similar package manager~~
 
 ### Compile yourself
 
